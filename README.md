@@ -12,3 +12,6 @@ _as of now tested on Ubuntu_
 # supported customizations
 * vim configuration to support kubernetes yaml Code Completion
 *
+
+# command
+`ansible-playbook  -K vim-config-k8s.yaml `
